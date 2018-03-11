@@ -9,3 +9,4 @@ MENÚ DE LA APLICACIÓN:
 3. BAJA DE CIENTE: Se ingresa el ID y el cliente se eliminará. No se permite esta acción si hay ventas asociadas al cliente.
 4. LISTAR CLIENTES: Se imprimirá por pantalla las lista de clientes ordenados por Apellido.
 5. IMPORTAR CLIENTES DESDE CVS: Se ingresará el path de un archivo cvs, se leerá el mismo y se copiarán los datos de los clientes al sistema en e caso de que el cliente no exista. Verifcar si el cliente existe por el DNI.
+6. INGRESAR UN SERVICIO TÉCNICO: Se ingresa el ID del cliente y se pedirá el códigodel producto (alfanumérico 5 
